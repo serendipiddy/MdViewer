@@ -8,3 +8,4 @@ Desired features
  * Use newer Material theme
  * Open files via intent/"open as" menu
  * Allow hyperlinks to function between documents with the same root directory and view images
+ * File selector for file on file system, URL and Dropbox
